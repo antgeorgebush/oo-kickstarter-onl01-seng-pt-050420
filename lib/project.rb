@@ -1,3 +1,3 @@
 class Project
-  att
+  attr_reader :title,
   
