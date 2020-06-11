@@ -5,6 +5,7 @@ class Backer
     @name = name
     @backed_projects = backed_projects
     @backed_projects = []
+    
     end  
   
   
